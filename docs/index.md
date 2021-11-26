@@ -9,6 +9,6 @@ Languages and packages used;
 
 Click below for the links to the maps created:
 
- - [My static map]()
- - [My interactive map]()
+ - [My static map](https://tokoth.github.io/Day26-Choropleth/Covid_cases.png)
+ - [My interactive map](https://tokoth.github.io/Day26-Choropleth/Covid_cases.html)
 
